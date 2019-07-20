@@ -284,7 +284,7 @@ class OptionsManager(object):
             'cmd_args': '',
             'enable_log': True,
             'log_time': True,
-            'workers_number': 3,
+            'workers_number': 6,
             'locale_name': get_default_lang(),
             'main_win_size': (740, 490),
             'opts_win_size': (640, 490),
